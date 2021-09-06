@@ -187,36 +187,31 @@ comment
 
 
 
-$op = "-";
-$num1 = 1;
-$num2 = 2;
+// $op = "-";
+// $num1 = 1;
+// $num2 = 2;
 
- switch ($op) {
-     case '+':
-         # code...
-         echo $num1 + $num2;
-         break;
+//  switch ($op) {
+//      case '+':
+//          # code...
+//          echo $num1 + $num2;
+//          break;
 
-     case '-':
-        # code...
-        echo $num1-$num2;     
-        break;
+//      case '-':
+//         # code...
+//         echo $num1-$num2;     
+//         break;
         
-     default:
-         # code...
-         echo 'No OPERATION SET ';
-         break;
- }
-
-
-
-
-
-
-
+//      default:
+//          # code...
+//          echo 'No OPERATION SET ';
+//          break;
+//  }
 
 
 
 ?>
 
- 
+
+
+
