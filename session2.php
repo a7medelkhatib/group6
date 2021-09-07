@@ -210,9 +210,12 @@ declare(strict_types=1);
 //    }
 
 
-
-
-
+//$var="https://www.w3schoo��ls.co�m";
 
 
 ?>
+
+
+
+</body>
+</html>
